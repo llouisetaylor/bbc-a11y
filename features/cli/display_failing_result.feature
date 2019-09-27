@@ -56,5 +56,5 @@ Feature: Display failing result
 
       For details on how to fix these errors, please see the following pages:
         - https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/headings
-        - https://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile/text-equivalents/tooltips-and-supplementary-information
+        - https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/tooltips-and-supplementary-information
       """
